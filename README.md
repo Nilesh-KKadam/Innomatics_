@@ -102,7 +102,7 @@
         </table>
 
         <textarea name="feedback" id="feedback" placeholder="Add your feedback here..." style="width: 100%; margin-top: 20px; padding: 15px; border-radius: 8px; border: 1px solid #ccc; font-size: 1rem;"></textarea>
-        <br>
+        
         <button type="submit" style="width:; padding: 10px; background-color: #1e3bf7; color: white; border: none; border-radius: 20px; cursor: pointer; font-size: 1rem; margin-top: 20px;">
             Submit the Feedback
     </section>
