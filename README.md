@@ -75,7 +75,7 @@ We welcome contributions! If you'd like to improve this project or add new featu
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+All Rights are reserved by nilesh kadam.
 
 ---
 
