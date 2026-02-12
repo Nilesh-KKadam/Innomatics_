@@ -10,7 +10,7 @@
 
 <body style="background-color: #f0f4f7; margin: 0; padding: 0; color: #333;">
     <header style="background-color: #130436; color: white; padding: 20px 0; text-align: center;">
-        
+             
 
 
         <h1 style="font-size: 2.5rem; margin: 0;">Personal Budget Tracker 💸</h1>
