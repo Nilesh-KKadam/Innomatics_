@@ -110,7 +110,7 @@
     <!-- Section End -->
 
 
-    <!-- Footer start -->
+    <!-- Footer start -->                
 
     <footer style="background-color: #2d3e50; color: white; padding: 30px 0; text-align: center; font-size: 16px; margin-top: 50px;">
         <div style="width: 70%; margin: 0 auto;">
